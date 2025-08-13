@@ -137,7 +137,7 @@ GROUP BY age_group;
 
 ## 🙋‍♂️ Author
 
-**Raghav**  
+**Mayank Singh**  
 SQL & Data Analysis Enthusiast  
 📫 Feel free to connect via GitHub or LinkedIn!
 
